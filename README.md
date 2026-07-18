@@ -6,10 +6,10 @@ I am a Data Science undergraduate passionate about engineering robust full-stack
 
 ### Tech Stack & Tools
 
-*   **Languages:** Python, MySQL, TypeScript, C++
-*   **Frameworks & Libraries:** Django, Django REST Framework, React, React Native, Expo, TypeScript, Pandas, NumPy
+*   **Languages:** Python, MySQL, TypeScript
+*   **Frameworks & Libraries:** Django, Django REST Framework, React, TypeScript, Pandas, NumPy
 *   **Developer Tools & Concepts:** GitHub, REST APIs, NLP, Prompt Engineering, Agile Workflow
-*   **Databases:** SQLite, MySQL, PostgreSQL, MongoDB
+*   **Databases:** SQLite, MySQL, PostgreSQL
 
 ---
 
