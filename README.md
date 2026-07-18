@@ -33,12 +33,11 @@ I am a Data Science undergraduate passionate about engineering robust full-stack
 
 ---
 
-### GitHub Analytics
+## 📊 GitHub Activities
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umanshiii&show_icons=true&theme=radial&rank_icon=github" alt="Umanshi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umanshiii&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
+[![GitHub Grid](https://github-readme-streak-stats.herokuapp.com/?user=Umanshiii&theme=radial)](https://github.com/Umanshiii)
+
+*   **Total Contributions:** Real-time activity metrics are tracked directly in the contribution grid below.
 
 ---
 
