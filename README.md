@@ -44,5 +44,5 @@ I am a Data Science undergraduate passionate about engineering robust full-stack
 
 ### 🌐 Let's Connect!
 
-*   **LinkedIn:** [linkedin.com/in/umanshi-gupta](https://www.linkedin.com) *(Update with your exact profile link)*
+*   **LinkedIn:** [linkedin.com/in/umanshiii](https://www.linkedin.com) 
 *   **Email:** umanshi121@gmail.com
