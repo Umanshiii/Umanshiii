@@ -35,7 +35,7 @@ I am a Data Science undergraduate passionate about engineering robust full-stack
 
 ## GitHub Activities
 
-[![GitHub Grid](https://github-readme-streak-stats.herokuapp.com/?user=Umanshiii&theme=radial)](https://github.com/Umanshiii)
+[![GitHub Grid](https://github-readme-streak-stats.herokuapp.com/?user=Umanshiii&theme=radial&cache_bypass=true)](https://github.com/Umanshiii)
 
 *   **Total Contributions:** Real-time activity metrics are tracked directly in the contribution grid below.
 
