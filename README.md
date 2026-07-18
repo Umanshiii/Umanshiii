@@ -33,7 +33,7 @@ I am a Data Science undergraduate passionate about engineering robust full-stack
 
 ---
 
-## 📊 GitHub Activities
+## GitHub Activities
 
 [![GitHub Grid](https://github-readme-streak-stats.herokuapp.com/?user=Umanshiii&theme=radial)](https://github.com/Umanshiii)
 
