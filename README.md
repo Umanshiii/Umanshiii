@@ -39,7 +39,7 @@ I am a Data Science undergraduate passionate about engineering robust full-stack
 
 *   **Total Contributions:** Real-time activity metrics are tracked directly in the contribution grid below.
 
----
+
 
 ### Let's Connect!
 
