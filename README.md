@@ -21,6 +21,8 @@ I am a Data Science undergraduate passionate about engineering robust full-stack
     Architected a centralized backend using Django REST Framework and secure REST APIs to unify school administration, student health records, and real-time meal-tracking data. Developed an automated health monitoring module to calculate BMI and map nutritional trends via role-based dashboards.
 *   **Linked'Ink AI – Structured Content Generation System**  
     Developed an AI-powered LinkedIn post generation system utilizing NLP and Cerebras AI to create personalized content while preserving the user's writing style and tone. Engineered an end-to-end Python workflow managing dynamic prompt generation and automated posting states.
+*  **Amazon ML Challenge – Business Entity Resolution**
+  Engineered an end-to-end Machine Learning pipeline to resolve and deduplicate business entities across noisy, heterogeneous datasets containing over 12M+ rows. Overcame out-of-memory bottlenecks by implementing an optimized token and prefix key blocking strategy, and trained a Scikit-Learn Random Forest Classifier utilizing pairwise distance features to maximize the F_0.5 evaluation metric.
 
 ---
 
